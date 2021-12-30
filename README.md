@@ -23,6 +23,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://github.com/Haronicio/Haronicio/blob/main/assets/Windows_logo.png"></code>
+  
+  <p><img src="https://visitor-badge.glitch.me/badge?page_id=Haronicio.Haronicio" alt="visitors"></p>
+ 
 <!---
 Haronicio/Haronicio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
