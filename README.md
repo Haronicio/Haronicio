@@ -1,16 +1,16 @@
-### About Haronicio
+<h2><b>About Haronicio</b> </h2>
 
 <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/hibooba.gif"> </center>
 
 - 👋 Hi, I’m @Haronicio aka Haron DAUVET DIAKHATE
 - 👀 I’m interested in music for informatic
-- 🌱 I’m currently learning at Sorbonne University, in Master 1 Système et Application Répartie
-- 📫 How to reach me, 
+- 🌱 I’m currently learning at <b>Sorbonne University</b>, in Master 1 <l>Systèmes et Applications Répartis</l>
+- 📫 How to reach me : 
 
 
-  &nbsp; [<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/mailgif.gif" width="3.5%"/>](mailto:haron.dauvet@live.com)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/Linkedingif.gif" width="3.5%"/>](https://www.linkedin.com/in/haron-dauvet-diakhate-ba29211bb/)
+  &nbsp; [<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/mailgif.gif" width="40"/>](mailto:haron.dauvet@live.com)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/Linkedingif.gif" width="40"/>](https://www.linkedin.com/in/haron-dauvet-diakhate-ba29211bb/)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/YTgif.gif" width="40"/>](https://www.youtube.com/channel/UCCcx12lqi7aLKkQx7i1SP1g)
 
-### Languages and Tools <br />
+<h2><b>Languages and Tools</b> </h2>
 <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/Informatician.gif"> </center>
 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
