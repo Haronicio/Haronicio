@@ -1,5 +1,4 @@
-<b>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237DF746&lines=Hello)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7D430&size=15&lines=World;Visitors;Aliens)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E01A0E&lines=!)](https://git.io/typing-svg)</b>
-<h2><b>About Haronicio</b> </h2>
+
 
 <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/hibooba.gif"> </center>
 
