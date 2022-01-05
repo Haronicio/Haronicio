@@ -27,7 +27,7 @@ qnHʇᴉפ ʎɯ uo ǝɯoɔlǝM ¡ plɹoM ollǝH
 </textPath>
   </text>
   <img class="fit-picture"  position: "absolute"
-     src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/719a54de-0593-4bfa-8a74-235423712fb1/db1tbtw-3f3c4870-4b95-458e-a2d6-61281b79db78.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxOWE1NGRlLTA1OTMtNGJmYS04YTc0LTIzNTQyMzcxMmZiMVwvZGIxdGJ0dy0zZjNjNDg3MC00Yjk1LTQ1OGUtYTJkNi02MTI4MWI3OWRiNzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dn4Q_7VBCM0rscE0AqCutRT-EOIC_720w3t2a2bpvkk">
+     src="https://github.com/Haronicio/Haronicio/edit/main/assets/planet.gif">
   <style>
     .fit-picture
     {
@@ -40,7 +40,6 @@ qnHʇᴉפ ʎɯ uo ǝɯoɔlǝM ¡ plɹoM ollǝH
     .my-text
     {
        transform: scale(-1, -1);
-     position: absolute;
       font-size  : 50px;
       fill: #e75480;
       stroke: black;
