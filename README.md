@@ -1,6 +1,6 @@
 
 
-<center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/hibooba.gif"> </center>
+!-- <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/hibooba.gif"> </center> !--
 
 - 👋 Hi, I’m @Haronicio aka Haron DAUVET DIAKHATE
 - 👀 I’m interested in music for informatic
