@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Haronicio aka Haron DAUVET DIAKHATE
 - 👀 I’m interested in music for informatic
-- 🌱 I’m currently learning at <b>Sorbonne University</b>, in Master 1 <l>Systèmes et Applications Répartis</l>
+- 🌱 I’m currently learning at <b>Sorbonne University</b>, in Master 2 <l>Systèmes et Applications Répartis</l>
 - 📫 How to reach me : 
 
 
