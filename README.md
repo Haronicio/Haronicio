@@ -12,6 +12,8 @@
 
 - My last projects :
   [Serveur + Photo Synthétiseur](https://github.com/Haronicio/WEB-server-photosynthetizer/blob/main/Projet%20IOC%20_%20Le%20WEB%20serveur%20photo-synth%C3%A9tiseur.pdf)
+  [Gameboy Basic Kernel Engine](https://github.com/Haronicio/gbke)
+  [GroovTrade : Site d'échange de produit audio](https://github.com/Haronicio/groovtrade)
 
 <h2><b>Languages and Tools</b> </h2>
 <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/Informatician.gif"> </center>
