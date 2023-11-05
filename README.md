@@ -10,6 +10,9 @@
 
   &nbsp; [<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/mailgif.gif" width="40"/>](mailto:haron.dauvet@live.com)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/Linkedingif.gif" width="40"/>](https://www.linkedin.com/in/haron-dauvet-diakhate-ba29211bb/)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/YTgif.gif" width="40"/>](https://www.youtube.com/channel/UCCcx12lqi7aLKkQx7i1SP1g)
 
+- My last projects :
+  [Serveur + Photo Synthétiseur](https://github.com/Haronicio/WEB-server-photosynthetizer/blob/main/Projet%20IOC%20_%20Le%20WEB%20serveur%20photo-synth%C3%A9tiseur.pdf)
+
 <h2><b>Languages and Tools</b> </h2>
 <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/Informatician.gif"> </center>
 
