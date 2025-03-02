@@ -2,7 +2,7 @@
 
 <!-- <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/hibooba.gif"> </center> -->
 
-- 👋 Hi, I’m @Haronicio aka Haron DAUVET DIAKHATE
+- 👋 Hi, I’m @Haronicio
 - 👀 I’m interested in music for informatic
 - 🌱 I’m currently learning at <b>Sorbonne University</b>, in Master 2 <l>Systèmes et Applications Répartis</l>
 - 📫 How to reach me : 
