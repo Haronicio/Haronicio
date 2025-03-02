@@ -3,9 +3,7 @@
 <!-- <center><img height="300" src="https://github.com/Haronicio/Haronicio/blob/main/assets/hibooba.gif"> </center> -->
 
 - 👋 Hi, I’m @Haronicio
-- 👀 I’m interested in music for informatic
-- 🌱 I’m currently learning at <b>Sorbonne University</b>, in Master 2 <l>Systèmes et Applications Répartis</l>
-- 📫 How to reach me : 
+- 👀 Cool stuff here, I made computer and harware system 
 
 
   &nbsp; [<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/mailgif.gif" width="40"/>](mailto:haron.dauvet@live.com)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/Linkedingif.gif" width="40"/>](https://www.linkedin.com/in/haron-dauvet-diakhate-ba29211bb/)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/YTgif.gif" width="40"/>](https://www.youtube.com/channel/UCCcx12lqi7aLKkQx7i1SP1g)
