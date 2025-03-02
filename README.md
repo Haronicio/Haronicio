@@ -5,9 +5,6 @@
 - 👋 Hi, I’m @Haronicio
 - 👀 Cool stuff here, I made computer and harware system 
 
-
-  &nbsp; [<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/mailgif.gif" width="40"/>](mailto:haron.dauvet@live.com)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/Linkedingif.gif" width="40"/>](https://www.linkedin.com/in/haron-dauvet-diakhate-ba29211bb/)&nbsp;[<img src="https://github.com/Haronicio/Haronicio/blob/main/assets/YTgif.gif" width="40"/>](https://www.youtube.com/channel/UCCcx12lqi7aLKkQx7i1SP1g)
-
 - My last projects :
   [SRTL : Simple RealTime Layer](https://github.com/Haronicio/SimpleRealTimeLayer_Lib)
   [Serveur + Photo Synthétiseur](https://github.com/Haronicio/WEB-server-photosynthetizer/blob/main/Projet%20IOC%20_%20Le%20WEB%20serveur%20photo-synth%C3%A9tiseur.pdf)
